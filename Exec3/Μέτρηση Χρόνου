@@ -1,0 +1,1 @@
+/usr/bin/time --format "Elapsed %e sec." swipl -s hopping.pl -g "hopping('h1000.in', Answer),write(Answer),nl,halt."
