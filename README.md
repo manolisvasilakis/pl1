@@ -13,7 +13,7 @@ The purpose of this course is the understanding of the core fundamentals and con
 * Logical Programming
 ---
 This repo is dedicated to the assignments of the course, in which we had to implement algorithms in the following programming languages:
-* C++
+* C
 * SML-NJ
 * Java
 * SWI-Prolog
